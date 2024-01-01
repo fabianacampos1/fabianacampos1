@@ -1,4 +1,4 @@
-# Hi, I'm Fabiana 👋🏼👩🏽‍💻
+## Hi, I'm Fabiana 👋🏼👩🏽‍💻
 
 Enthusiastic web development student with a particular passion for front-end, crafting user-friendly interfaces that come to life through innovative code and captivating design, with a strong commitment to accessibility and continuous learning.
 
